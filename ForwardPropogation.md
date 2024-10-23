@@ -7,3 +7,5 @@ Output Layer: The processed data moves through the output layer, where the final
 Prediction: The final output of the network is the prediction or classification result for the input data.
 Forward propagation is essential for making predictions in neural networks. It calculates the output of the network for a given input based on the current values of the weights and biases. The output is then compared to the actual target value to calculate the loss, which is used to update the weights and biases during the training process.
 ```
+
+**Forward propagation is essential for making predictions in neural networks. It calculates the output of the network for a given input based on the current values of the weights and biases. The output is then compared to the actual target value to calculate the loss, which is used to update the weights and biases during the training process.**
